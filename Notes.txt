@@ -5,3 +5,4 @@ Sekancios uzduotys:
 - limituoti teksto ploti
 - fonas (spalva)
 
+-paviesinti koda (Github pages)
