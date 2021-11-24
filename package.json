@@ -1,0 +1,26 @@
+{
+  "name": "1-intro",
+  "version": "1.0.0",
+  "description": "pavyzdinis projekto aprasas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romimb/1-intro.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romimb/1-intro/issues"
+  },
+  "homepage": "https://github.com/romimb/1-intro#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
